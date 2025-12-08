@@ -1,6 +1,6 @@
-Juan Campos de Araujo
-Aprendizado sobre github
-git clone "nome_da_pasta"
-git add "nomeDoArquivo"
-git commit -m "Mensagem para etiquetar esse pacote")
-git push 
+Nome Completo: Juan Campos de Araujo
+Aprendizado sobre github, git bash e portugol
+git clone "exercicios_portugol"
+git add .
+git commit -m "Mensagem"
+git push
