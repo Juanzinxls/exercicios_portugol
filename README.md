@@ -1,6 +1,5 @@
 Nome Completo: Juan Campos de Araujo
-Aprendizado sobre github, git bash e portugol
-git clone "exercicios_portugol"
-git add .
-git commit -m "Mensagem"
-git push
+Objetivo do Repositório: Aprendizado sobre github, git bash e portugol
+comando para clonar o repositório: git clone "exercicios_portugol"
+comando para versionar o repositório: git add . / git commit -m "Mensagem" / git push
+
