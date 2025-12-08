@@ -9,5 +9,7 @@ uma crescente em relação a minha logica, demostrando a eficacia das aulas, al�
 
 ## Comando usado para o versionamento:
 • git add 
+
 • git commit - m "A descrição do commit"
+
 • git push
